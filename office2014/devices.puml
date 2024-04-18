@@ -1,0 +1,52 @@
+@startuml
+
+!include <office/Devices/cd_dvd.puml>
+!include <office/Devices/cell_phone_android_proportional.puml>
+!include <office/Devices/cell_phone_android_stand_alone.puml>
+!include <office/Devices/cell_phone_generic.puml>
+!include <office/Devices/cell_phone_iphone_proportional.puml>
+!include <office/Devices/cell_phone_iphone_stand_alone.puml>
+!include <office/Devices/cell_phone_windows_phone_proportional.puml>
+!include <office/Devices/cell_phone_windows_phone_stand_alone.puml>
+!include <office/Devices/data_jack.puml>
+!include <office/Devices/device_bluetooth.puml>
+!include <office/Devices/device_fax.puml>
+!include <office/Devices/device_headset.puml>
+!include <office/Devices/device_laptop.puml>
+!include <office/Devices/device_lcd_monitor.puml>
+!include <office/Devices/device_mac_client.puml>
+!include <office/Devices/device_microphone.puml>
+!include <office/Devices/device_phone_digital.puml>
+!include <office/Devices/device_phone_traditional.puml>
+!include <office/Devices/device_phone_usb.puml>
+!include <office/Devices/device_phone_voip.puml>
+!include <office/Devices/device_printer.puml>
+!include <office/Devices/device_roundtable.puml>
+!include <office/Devices/device_stylus.puml>
+!include <office/Devices/device_tablet_android.puml>
+!include <office/Devices/device_tablet_ipad_mini.puml>
+!include <office/Devices/device_tablet_ipad.puml>
+!include <office/Devices/device_tablet_windows_7_inch.puml>
+!include <office/Devices/device_tablet_windows_8.puml>
+!include <office/Devices/device_tv.puml>
+!include <office/Devices/device_update_service.puml>
+!include <office/Devices/device_webcam_hd.puml>
+!include <office/Devices/device_webcam.puml>
+!include <office/Devices/hard_disk.puml>
+!include <office/Devices/ip_gateway.puml>
+!include <office/Devices/ip_pbx.puml>
+!include <office/Devices/load_balancer.puml>
+!include <office/Devices/management_console.puml>
+!include <office/Devices/modem.puml>
+!include <office/Devices/nic.puml>
+!include <office/Devices/router.puml>
+!include <office/Devices/session_border_controller.puml>
+!include <office/Devices/shadowed_router.puml>
+!include <office/Devices/switch.puml>
+!include <office/Devices/video_camera.puml>
+!include <office/Devices/video_gateway.puml>
+!include <office/Devices/workstation_pc.puml>
+!include <office/Devices/workstation.puml>
+!include <office/Devices/workstation_visual_studio.puml>
+
+@enduml

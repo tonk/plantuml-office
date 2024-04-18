@@ -1,0 +1,17 @@
+@startuml
+
+!include <office/Clouds/azure.puml>
+!include <office/Clouds/cloud_disaster.puml>
+!include <office/Clouds/cloud_disaster_red.puml>
+!include <office/Clouds/cloud_exchange_online.puml>
+!include <office/Clouds/cloud.puml>
+!include <office/Clouds/cloud_service_request.puml>
+!include <office/Clouds/cloud_sharepoint_online.puml>
+!include <office/Clouds/office_365_cloud.puml>
+!include <office/Clouds/online_backup.puml>
+!include <office/Clouds/online_user.puml>
+!include <office/Clouds/private_cloud.puml>
+!include <office/Clouds/public_cloud.puml>
+!include <office/Clouds/public_im_cloud_service.puml>
+
+@enduml

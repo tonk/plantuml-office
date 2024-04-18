@@ -1,0 +1,48 @@
+@startuml
+
+!include <office/Databases/address_book_store.puml>
+!include <office/Databases/application_store.puml>
+!include <office/Databases/database_availability_group.puml>
+!include <office/Databases/database_blue.puml>
+!include <office/Databases/database_cube_blue.puml>
+!include <office/Databases/database_cube_ghosted.puml>
+!include <office/Databases/database_cube_green.puml>
+!include <office/Databases/database_cube_orange.puml>
+!include <office/Databases/database_cube.puml>
+!include <office/Databases/database_ghosted.puml>
+!include <office/Databases/database_green.puml>
+!include <office/Databases/database_mini_1_blue.puml>
+!include <office/Databases/database_mini_1_ghosted.puml>
+!include <office/Databases/database_mini_1_green.puml>
+!include <office/Databases/database_mini_1_orange.puml>
+!include <office/Databases/database_mini_1.puml>
+!include <office/Databases/database_mini_2_blue.puml>
+!include <office/Databases/database_mini_2_ghosted.puml>
+!include <office/Databases/database_mini_2_green.puml>
+!include <office/Databases/database_mini_2_orange.puml>
+!include <office/Databases/database_mini_2.puml>
+!include <office/Databases/database_mini_3_blue.puml>
+!include <office/Databases/database_mini_3_ghosted.puml>
+!include <office/Databases/database_mini_3_green.puml>
+!include <office/Databases/database_mini_3_orange.puml>
+!include <office/Databases/database_mini_3.puml>
+!include <office/Databases/database_mirror.puml>
+!include <office/Databases/database_mirror_witness_node.puml>
+!include <office/Databases/database_orange.puml>
+!include <office/Databases/database_partition_2.puml>
+!include <office/Databases/database_partition_3.puml>
+!include <office/Databases/database_partition_4.puml>
+!include <office/Databases/database_partition_5.puml>
+!include <office/Databases/database_public_folder.puml>
+!include <office/Databases/database.puml>
+!include <office/Databases/database_server_blue.puml>
+!include <office/Databases/database_server_ghosted.puml>
+!include <office/Databases/database_server_green.puml>
+!include <office/Databases/database_server_orange.puml>
+!include <office/Databases/database_server.puml>
+!include <office/Databases/mailbox_database.puml>
+!include <office/Databases/monitoring_store.puml>
+!include <office/Databases/unified_contact_store.puml>
+!include <office/Databases/web_store.puml>
+
+@enduml

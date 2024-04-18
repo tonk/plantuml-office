@@ -1,0 +1,26 @@
+@startuml
+
+!include <office/Sites/access_services.puml>
+!include <office/Sites/blog_site.puml>
+!include <office/Sites/business_connectivity_services.puml>
+!include <office/Sites/excel_services.puml>
+!include <office/Sites/meeting_workspace_site.puml>
+!include <office/Sites/my_site.puml>
+!include <office/Sites/powerpoint_automation_services.puml>
+!include <office/Sites/publish.puml>
+!include <office/Sites/site_collection.puml>
+!include <office/Sites/site_shared.puml>
+!include <office/Sites/site_team.puml>
+!include <office/Sites/subsite_blue.puml>
+!include <office/Sites/subsite_ghosted.puml>
+!include <office/Sites/subsite_green.puml>
+!include <office/Sites/subsite_orange.puml>
+!include <office/Sites/subsite.puml>
+!include <office/Sites/upgrade_site.puml>
+!include <office/Sites/visio_services.puml>
+!include <office/Sites/website_public.puml>
+!include <office/Sites/website.puml>
+!include <office/Sites/wiki_site.puml>
+!include <office/Sites/word_automation_services.puml>
+
+@enduml

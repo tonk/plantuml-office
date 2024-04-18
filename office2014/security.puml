@@ -1,0 +1,49 @@
+@startuml
+
+!include <office/Security/active_directory.puml>
+!include <office/Security/address_book_policies.puml>
+!include <office/Security/certificate.puml>
+!include <office/Security/credentials.puml>
+!include <office/Security/domain.puml>
+!include <office/Security/email_address_policy.puml>
+!include <office/Security/federation_service.puml>
+!include <office/Security/federation_trust.puml>
+!include <office/Security/irm_protected_message.puml>
+!include <office/Security/key_permissions_blue.puml>
+!include <office/Security/key_permissions_ghosted.puml>
+!include <office/Security/key_permissions_green.puml>
+!include <office/Security/key_permissions_orange.puml>
+!include <office/Security/key_permissions.puml>
+!include <office/Security/lock_protected_blue.puml>
+!include <office/Security/lock_protected_ghosted.puml>
+!include <office/Security/lock_protected_green.puml>
+!include <office/Security/lock_protected_orange.puml>
+!include <office/Security/lock_protected.puml>
+!include <office/Security/lock_unprotected_blue.puml>
+!include <office/Security/lock_unprotected_ghosted.puml>
+!include <office/Security/lock_unprotected_green.puml>
+!include <office/Security/lock_unprotected_orange.puml>
+!include <office/Security/lock_unprotected.puml>
+!include <office/Security/lock_with_key_security_blue.puml>
+!include <office/Security/lock_with_key_security_ghosted.puml>
+!include <office/Security/lock_with_key_security_green.puml>
+!include <office/Security/lock_with_key_security_orange.puml>
+!include <office/Security/lock_with_key_security.puml>
+!include <office/Security/management_role.puml>
+!include <office/Security/policy.puml>
+!include <office/Security/protected_voice_mail.puml>
+!include <office/Security/retention_policy.puml>
+!include <office/Security/retention_policy_tag.puml>
+!include <office/Security/role_assignment_policy.puml>
+!include <office/Security/role_group.puml>
+!include <office/Security/secure_messaging.puml>
+!include <office/Security/security_access_portal.puml>
+!include <office/Security/sharing_policy.puml>
+!include <office/Security/split_domain_user.puml>
+!include <office/Security/token.puml>
+!include <office/Security/token_service.puml>
+!include <office/Security/trusted_application_server.puml>
+!include <office/Security/um_mailbox_policy.puml>
+!include <office/Security/universal_security_group.puml>
+
+@enduml

@@ -1,0 +1,47 @@
+@startuml
+
+!include <office/Users/administrator.puml>
+!include <office/Users/approver.puml>
+!include <office/Users/call_center_agent.puml>
+!include <office/Users/communications.puml>
+!include <office/Users/conferencing_attendant.puml>
+!include <office/Users/credentials.puml>
+!include <office/Users/csv_file.puml>
+!include <office/Users/distribution_group.puml>
+!include <office/Users/dynamic_distribution_group.puml>
+!include <office/Users/mail_user.puml>
+!include <office/Users/meeting.puml>
+!include <office/Users/mobile_user.puml>
+!include <office/Users/online_user.puml>
+!include <office/Users/on_premises_user.puml>
+!include <office/Users/outlook_user.puml>
+!include <office/Users/response_group.puml>
+!include <office/Users/response_group_service.puml>
+!include <office/Users/role_group.puml>
+!include <office/Users/skype_commercial_user.puml>
+!include <office/Users/skype_for_business_user.puml>
+!include <office/Users/tenant_admin.puml>
+!include <office/Users/um_enabled_user.puml>
+!include <office/Users/universal_security_group.puml>
+!include <office/Users/user_accounts.puml>
+!include <office/Users/user_blue.puml>
+!include <office/Users/user_external.puml>
+!include <office/Users/user_ghosted.puml>
+!include <office/Users/user_green.puml>
+!include <office/Users/user_orange.puml>
+!include <office/Users/user.puml>
+!include <office/Users/users_blue.puml>
+!include <office/Users/user_services.puml>
+!include <office/Users/users_ghosted.puml>
+!include <office/Users/users_green.puml>
+!include <office/Users/users_orange.puml>
+!include <office/Users/users.puml>
+!include <office/Users/user_store.puml>
+!include <office/Users/users_two_blue.puml>
+!include <office/Users/users_two_ghosted.puml>
+!include <office/Users/users_two_green.puml>
+!include <office/Users/users_two_orange.puml>
+!include <office/Users/users_two.puml>
+!include <office/Users/writer.puml>
+
+@enduml

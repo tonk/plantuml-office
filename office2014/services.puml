@@ -1,0 +1,31 @@
+@startuml
+
+!include <office/Services/3rd_party_service.puml>
+!include <office/Services/access_services.puml>
+!include <office/Services/business_connectivity_services.puml>
+!include <office/Services/call_admission_control_service.puml>
+!include <office/Services/central_management_service.puml>
+!include <office/Services/conference_announcement_service.puml>
+!include <office/Services/device_update_service.puml>
+!include <office/Services/email_service.puml>
+!include <office/Services/excel_services.puml>
+!include <office/Services/federation_service.puml>
+!include <office/Services/lync_storage_service.puml>
+!include <office/Services/lync_web_app_client.puml>
+!include <office/Services/mobility_service.puml>
+!include <office/Services/network_file_share_service.puml>
+!include <office/Services/online_hosted_services.puml>
+!include <office/Services/outlook_web_app.puml>
+!include <office/Services/powerpoint_automation_services.puml>
+!include <office/Services/push_notification_service.puml>
+!include <office/Services/registrar_service.puml>
+!include <office/Services/response_group_service.puml>
+!include <office/Services/skype_for_business_storage_service.puml>
+!include <office/Services/user_services.puml>
+!include <office/Services/verification_service.puml>
+!include <office/Services/visio_services.puml>
+!include <office/Services/web_services.puml>
+!include <office/Services/word_automation_services.puml>
+!include <office/Services/xmpp_service.puml>
+
+@enduml
